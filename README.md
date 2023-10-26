@@ -20,11 +20,6 @@
 ⚡ Fun fact: ... I love to solve problems. I can do leetcode problems all day
 
 
-- 👋 Hi, I’m @Biswajit-end-10
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 🚀 Languages and Tools: 
 
